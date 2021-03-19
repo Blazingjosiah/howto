@@ -1,0 +1,61 @@
+*{
+  background-color: #FCDF95;
+}
+
+h3{
+color: red;
+font-family: 'Concert One', cursive;
+
+}
+
+.praise{
+  color: green;
+}
+
+.p{
+  color: purple;
+}
+
+.repent{
+  color: green;
+}
+
+.r{
+  color: purple;
+}
+
+.ask{
+  color: green;
+}
+
+.a{
+  color: purple;
+}
+
+.yield{
+  color: green;
+}
+
+.y{
+  color: purple;
+}
+
+body{
+  color: #021E5E;
+  background color: white;
+  font-family: 'Concert One', cursive;
+}
+
+h1{
+font-family: 'Fredoka One', cursive;
+  font-size: 3rem;
+  color: blue;
+}
+
+a{
+  background-color:purple;
+  color:white;
+  text-decoration: none;
+  padding:89px;
+  font-size: 4rem;
+}
